@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "filmlovers hub",
+    "description": "",
+    "home_page_url": "https://coratmerrifield.github.io/mywebsite",
+    "feed_url": "https://coratmerrifield.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "cora tarr"
+    },
+    "items": [
+    ]
+}

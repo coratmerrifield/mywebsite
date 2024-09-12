@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://coratmerrifield.github.io/mywebsite/sitemap.xml
